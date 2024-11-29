@@ -369,3 +369,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [29Nov2024 20:34:39.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DoxxuZ: Set the time to 1000]
 [29Nov2024 20:40:42.980] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DoxxuZ lost connection: Timed out
 [29Nov2024 20:40:42.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DoxxuZ left the game
+[29Nov2024 20:46:59.847] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DoxxuZ[/[::1]:47208] logged in with entity id 12928 at (-247.6717796709088, 68.0, 427.10776182412525)
+[29Nov2024 20:46:59.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DoxxuZ joined the game
+[29Nov2024 20:46:59.955] [Server thread/INFO] [Jade/]: Syncing config to DoxxuZ (1da37bce-b87a-33f7-8106-97299c483cb0)
+[29Nov2024 20:49:10.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DoxxuZ: Set the time to 1000]
