@@ -373,3 +373,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [29Nov2024 20:46:59.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DoxxuZ joined the game
 [29Nov2024 20:46:59.955] [Server thread/INFO] [Jade/]: Syncing config to DoxxuZ (1da37bce-b87a-33f7-8106-97299c483cb0)
 [29Nov2024 20:49:10.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DoxxuZ: Set the time to 1000]
+[29Nov2024 20:52:21.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DoxxuZ has made the advancement [Monster Hunter]
+[29Nov2024 20:54:07.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DoxxuZ: Applied effect Strength to DoxxuZ]
+[29Nov2024 21:00:00.831] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DoxxuZ lost connection: Timed out
+[29Nov2024 21:00:00.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DoxxuZ left the game
