@@ -301,18 +301,20 @@
     },
     "done": true
   },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:spider": "2024-11-29 20:52:21 +0000",
-      "minecraft:creeper": "2024-11-29 20:53:17 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2024-11-29 20:48:46 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2024-11-29 21:05:36 +0000",
+      "minecraft:spider": "2024-11-29 20:52:21 +0000",
+      "minecraft:creeper": "2024-11-29 20:53:17 +0000",
+      "minecraft:zombie": "2024-11-29 21:05:14 +0000"
+    },
+    "done": false
   },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
