@@ -393,3 +393,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [29Nov2024 21:18:10.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DoxxuZ: Added 100 points to category puffish_skills:mining for DoxxuZ]
 [29Nov2024 21:18:17.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DoxxuZ: Set the time to 1000]
 [29Nov2024 21:18:34.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DoxxuZ: Added 100 points to category puffish_skills:combat for DoxxuZ]
+[29Nov2024 21:21:52.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DoxxuZ: Stopping the server]
+[29Nov2024 21:21:52.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[29Nov2024 21:21:52.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[29Nov2024 21:21:52.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[29Nov2024 21:21:52.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[29Nov2024 21:21:53.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[29Nov2024 21:21:53.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[29Nov2024 21:21:53.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[29Nov2024 21:21:53.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[29Nov2024 21:21:53.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[29Nov2024 21:21:53.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
