@@ -364,3 +364,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [29Nov2024 20:28:18.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DoxxuZ: Set own game mode to Survival Mode]
 [29Nov2024 20:29:51.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DoxxuZ: Set own game mode to Creative Mode]
 [29Nov2024 20:29:55.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DoxxuZ: Set own game mode to Survival Mode]
+[29Nov2024 20:33:06.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DoxxuZ: Set own game mode to Creative Mode]
+[29Nov2024 20:33:50.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DoxxuZ: Set own game mode to Survival Mode]
+[29Nov2024 20:34:39.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DoxxuZ: Set the time to 1000]
+[29Nov2024 20:40:42.980] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DoxxuZ lost connection: Timed out
+[29Nov2024 20:40:42.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DoxxuZ left the game
