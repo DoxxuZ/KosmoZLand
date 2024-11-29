@@ -381,3 +381,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [29Nov2024 21:03:14.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DoxxuZ joined the game
 [29Nov2024 21:03:14.342] [Server thread/INFO] [Jade/]: Syncing config to DoxxuZ (1da37bce-b87a-33f7-8106-97299c483cb0)
 [29Nov2024 21:09:39.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DoxxuZ: Set own game mode to Creative Mode]
+[29Nov2024 21:13:42.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DoxxuZ has made the advancement [Grave Ravager]
+[29Nov2024 21:13:58.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DoxxuZ: Set own game mode to Survival Mode]
+[29Nov2024 21:14:44.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DoxxuZ: Gave 10000000 experience points to DoxxuZ]
+[29Nov2024 21:14:50.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DoxxuZ: Set own game mode to Creative Mode]
+[29Nov2024 21:15:20.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DoxxuZ: Added 100 points to category puffish_skills:combat for DoxxuZ]
+[29Nov2024 21:15:27.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DoxxuZ: Added 100 points to category puffish_skills:mining for DoxxuZ]
+[29Nov2024 21:16:19.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DoxxuZ: Set own game mode to Survival Mode]
+[29Nov2024 21:16:37.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DoxxuZ: Set own game mode to Creative Mode]
+[29Nov2024 21:16:53.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DoxxuZ: Set own game mode to Survival Mode]
+[29Nov2024 21:18:10.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DoxxuZ: Added 100 points to category puffish_skills:mining for DoxxuZ]
+[29Nov2024 21:18:17.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DoxxuZ: Set the time to 1000]
+[29Nov2024 21:18:34.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DoxxuZ: Added 100 points to category puffish_skills:combat for DoxxuZ]
