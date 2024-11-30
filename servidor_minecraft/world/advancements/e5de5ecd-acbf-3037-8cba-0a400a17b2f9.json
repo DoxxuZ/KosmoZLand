@@ -32,6 +32,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2024-11-30 22:41:46 +0000",
+      "minecraft:river": "2024-11-30 23:12:59 +0000",
       "minecraft:dripstone_caves": "2024-11-30 22:53:06 +0000",
       "minecraft:forest": "2024-11-30 22:50:07 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-11-30 22:27:07 +0000"
@@ -850,6 +851,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:spider": "2024-11-30 23:11:07 +0000",
       "minecraft:zombie": "2024-11-30 22:41:52 +0000"
     },
     "done": false
@@ -1016,15 +1018,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-11-30 23:09:54 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
     "criteria": {
       "has_silver_ingot": "2024-11-30 23:04:20 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-11-30 23:09:54 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
     "criteria": {
       "has_silver_ingot": "2024-11-30 23:04:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-11-30 23:09:54 +0000"
     },
     "done": true
   },

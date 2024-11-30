@@ -346,3 +346,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [30Nov2024 23:09:14.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DoxxuZ drowned
 [30Nov2024 23:09:31.228] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DoxxuZ lost connection: Timed out
 [30Nov2024 23:09:31.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DoxxuZ left the game
+[30Nov2024 23:11:58.852] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DoxxuZ[/[::1]:46722] logged in with entity id 2675 at (47.69999998807907, 24.0, -104.84645064785259)
+[30Nov2024 23:11:58.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DoxxuZ joined the game
+[30Nov2024 23:11:58.971] [Server thread/INFO] [Jade/]: Syncing config to DoxxuZ (1da37bce-b87a-33f7-8106-97299c483cb0)
+[30Nov2024 23:12:05.181] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4e54bdd2[id=<null>,name=kaise077,properties={},legacy=false] (/[::1]:53224) lost connection: Timed out
+[30Nov2024 23:12:38.976] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3551cc8a[id=<null>,name=kaise077,properties={},legacy=false] (/[::1]:58434) lost connection: Timed out
+[30Nov2024 23:15:53.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DoxxuZ has made the advancement [Isn't It Iron Pick]
+[30Nov2024 23:17:31.292] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kaise077[/[::1]:41166] logged in with entity id 4205 at (90.6015390897303, 71.17675927506424, -1.9873505588107503)
+[30Nov2024 23:17:31.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kaise077 joined the game
+[30Nov2024 23:17:31.347] [Server thread/INFO] [Jade/]: Syncing config to kaise077 (7c4c1178-fb0f-3ee5-9393-cf822cafbac9)
