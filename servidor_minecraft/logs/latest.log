@@ -340,3 +340,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [01Dec2024 17:31:17.436] [Server thread/INFO] [Jade/]: Syncing config to DoxxuZ (1da37bce-b87a-33f7-8106-97299c483cb0)
 [01Dec2024 17:40:48.294] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DoxxuZ lost connection: Timed out
 [01Dec2024 17:40:48.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DoxxuZ left the game
+[01Dec2024 17:43:22.078] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DoxxuZ[/[::1]:45108] logged in with entity id 3029 at (-1067.8015933189233, 79.0, -634.9898185034873)
+[01Dec2024 17:43:22.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DoxxuZ joined the game
+[01Dec2024 17:43:22.170] [Server thread/INFO] [Jade/]: Syncing config to DoxxuZ (1da37bce-b87a-33f7-8106-97299c483cb0)
+[01Dec2024 17:45:22.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DoxxuZ: Set own game mode to Creative Mode]
+[01Dec2024 17:45:33.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DoxxuZ: Set the time to 1000]
