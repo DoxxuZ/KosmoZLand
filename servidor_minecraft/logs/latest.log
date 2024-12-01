@@ -336,3 +336,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [01Dec2024 16:15:00.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DoxxuZ: Set own game mode to Survival Mode]
 [01Dec2024 16:32:13.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DoxxuZ: Set own game mode to Creative Mode]
 [01Dec2024 16:32:22.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DoxxuZ: Set own game mode to Survival Mode]
+[01Dec2024 16:41:15.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DoxxuZ: Set own game mode to Creative Mode]
+[01Dec2024 16:41:29.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DoxxuZ: Set own game mode to Survival Mode]
