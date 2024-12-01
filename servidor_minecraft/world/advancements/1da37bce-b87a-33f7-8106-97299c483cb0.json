@@ -1510,6 +1510,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2024-12-01 15:46:37 +0000",
       "minecraft:spider": "2024-12-01 15:12:29 +0000"
     },
     "done": false
@@ -1655,6 +1656,12 @@
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2024-12-01 15:34:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-01 15:48:12 +0000"
     },
     "done": true
   },
@@ -1805,6 +1812,12 @@
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2024-12-01 15:38:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-12-01 15:48:18 +0000"
     },
     "done": true
   },
