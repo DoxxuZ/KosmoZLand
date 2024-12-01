@@ -327,3 +327,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [01Dec2024 17:17:27.159] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [01Dec2024 17:17:27.159] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [01Dec2024 17:17:27.159] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[01Dec2024 17:21:36.050] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DoxxuZ lost connection: Timed out
+[01Dec2024 17:21:36.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DoxxuZ left the game
+[01Dec2024 17:21:36.139] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Dec2024 17:26:07.233] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DoxxuZ[/[::1]:44714] logged in with entity id 1148 at (-1028.5, 74.0, -637.5)
+[01Dec2024 17:26:07.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DoxxuZ joined the game
+[01Dec2024 17:26:07.291] [Server thread/INFO] [Jade/]: Syncing config to DoxxuZ (1da37bce-b87a-33f7-8106-97299c483cb0)
+[01Dec2024 17:30:07.742] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DoxxuZ lost connection: Timed out
+[01Dec2024 17:30:07.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DoxxuZ left the game
+[01Dec2024 17:31:17.408] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DoxxuZ[/[::1]:47686] logged in with entity id 1774 at (-1028.5, 74.0, -637.5)
+[01Dec2024 17:31:17.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DoxxuZ joined the game
+[01Dec2024 17:31:17.436] [Server thread/INFO] [Jade/]: Syncing config to DoxxuZ (1da37bce-b87a-33f7-8106-97299c483cb0)
