@@ -6161,3 +6161,18 @@ java.lang.Throwable: null
 [01Dec2024 16:38:36.091] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [01Dec2024 16:41:15.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DoxxuZ: Set own game mode to Creative Mode]
 [01Dec2024 16:41:29.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DoxxuZ: Set own game mode to Survival Mode]
+[01Dec2024 16:43:05.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DoxxuZ: Set own game mode to Creative Mode]
+[01Dec2024 16:43:33.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DoxxuZ: Set own game mode to Survival Mode]
+[01Dec2024 16:43:36.051] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Dec2024 16:43:36.064] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Dec2024 16:43:36.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DoxxuZ has made the advancement [The Andesite Age]
+[01Dec2024 16:43:57.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DoxxuZ: Set own game mode to Creative Mode]
+[01Dec2024 16:44:09.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DoxxuZ: Set own game mode to Survival Mode]
+[01Dec2024 16:44:37.228] [Server thread/DEBUG] [mixin/]: Mixing AdvancementBehaviourAccessor from create_dragon_lib.mixins.json into com.simibubi.create.foundation.advancement.AdvancementBehaviour
+[01Dec2024 16:44:37.228] [Server thread/DEBUG] [mixin/]: create_dragon_lib.mixins.json:AdvancementBehaviourAccessor: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[01Dec2024 16:44:37.245] [Server thread/DEBUG] [mixin/]: Mixing chaincogwheel.RotationPropagatorMixin from create_connected.mixins.json into com.simibubi.create.content.kinetics.RotationPropagator
+[01Dec2024 16:44:37.246] [Server thread/DEBUG] [mixin/]: create_connected.mixins.json:chaincogwheel.RotationPropagatorMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[01Dec2024 16:48:36.052] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Dec2024 16:48:36.064] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Dec2024 16:49:51.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DoxxuZ: Gave 64 [Iron Ingot] to DoxxuZ]
+[01Dec2024 16:51:11.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DoxxuZ: Gave 64 [Shaft] to DoxxuZ]
