@@ -7729,3 +7729,7 @@ java.lang.Throwable: null
 [01Dec2024 00:17:42.101] [Server thread/DEBUG] [com.hlysine.create_connected.CreateConnected/]: Sync Config: Sending server config to DoxxuZ
 [01Dec2024 00:19:57.376] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DoxxuZ lost connection: Timed out
 [01Dec2024 00:19:57.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DoxxuZ left the game
+[01Dec2024 00:21:09.311] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Dec2024 00:21:09.318] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Dec2024 00:26:09.309] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Dec2024 00:26:09.316] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
