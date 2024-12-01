@@ -330,3 +330,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [01Dec2024 15:33:53.231] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [01Dec2024 15:37:55.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DoxxuZ: Set own game mode to Creative Mode]
 [01Dec2024 15:38:03.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DoxxuZ: Set own game mode to Survival Mode]
+[01Dec2024 15:48:12.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DoxxuZ has made the advancement [Not Today, Thank You]
