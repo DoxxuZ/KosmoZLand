@@ -343,3 +343,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [02Dec2024 02:35:03.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DoxxuZ: Set own game mode to Survival Mode]
 [02Dec2024 02:35:55.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DoxxuZ: Set own game mode to Creative Mode]
 [02Dec2024 02:36:06.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DoxxuZ: Set own game mode to Survival Mode]
+[02Dec2024 02:41:38.901] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ilka'/81, l='ServerLevel[world]', x=291.29, y=63.00, z=149.29] died, message: 'Ilka was slain by Zombie'
+[02Dec2024 02:41:38.903] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Ilka'/81, l='ServerLevel[world]', x=291.29, y=63.00, z=149.29] died: Ilka was slain by Zombie
