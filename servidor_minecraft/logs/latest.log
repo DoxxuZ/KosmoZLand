@@ -336,3 +336,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [02Dec2024 03:38:37.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mers_444 joined the game
 [02Dec2024 03:38:37.839] [Server thread/INFO] [Jade/]: Syncing config to Mers_444 (e5de5ecd-acbf-3037-8cba-0a400a17b2f9)
 [02Dec2024 03:41:39.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mers_444 has made the advancement [Ice Bucket Challenge]
+[02Dec2024 03:46:26.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mers_444 has made the advancement [Junior Summoner]
+[02Dec2024 03:46:55.853] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DoxxuZ lost connection: Timed out
+[02Dec2024 03:46:55.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DoxxuZ left the game
+[02Dec2024 03:49:58.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mers_444 has reached the goal [Exorcism]
