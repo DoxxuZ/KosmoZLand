@@ -6320,3 +6320,10 @@ java.lang.Throwable: null
 [02Dec2024 02:01:47.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JRC301> quien sos
 [02Dec2024 02:03:20.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JRC301 has made the advancement [Deceived Hopes]
 [02Dec2024 02:03:34.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DoxxuZ> el pana guille
+[02Dec2024 02:05:48.324] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 02:05:48.348] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 02:06:02.762] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[02Dec2024 02:07:28.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DoxxuZ has made the advancement [Suit Up]
+[02Dec2024 02:10:48.294] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 02:10:48.305] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 02:13:03.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JRC301 has made the advancement [Diamonds!]
