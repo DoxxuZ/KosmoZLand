@@ -6560,3 +6560,10 @@ java.lang.Throwable: null
 [02Dec2024 03:55:59.184] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [02Dec2024 04:00:59.172] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02Dec2024 04:00:59.182] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 04:05:59.189] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 04:05:59.200] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 04:08:03.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mers_444 has reached the goal [Big Boy]
+[02Dec2024 04:09:27.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mers_444 has reached the goal [Fighting Nightmares]
+[02Dec2024 04:10:14.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mers_444 has made the advancement [The Wind Darkening]
+[02Dec2024 04:10:59.180] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 04:10:59.191] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

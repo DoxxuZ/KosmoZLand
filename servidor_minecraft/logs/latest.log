@@ -340,3 +340,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [02Dec2024 03:46:55.853] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DoxxuZ lost connection: Timed out
 [02Dec2024 03:46:55.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DoxxuZ left the game
 [02Dec2024 03:49:58.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mers_444 has reached the goal [Exorcism]
+[02Dec2024 04:08:03.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mers_444 has reached the goal [Big Boy]
+[02Dec2024 04:09:27.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mers_444 has reached the goal [Fighting Nightmares]
+[02Dec2024 04:10:14.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mers_444 has made the advancement [The Wind Darkening]
