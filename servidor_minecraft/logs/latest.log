@@ -331,3 +331,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [02Dec2024 05:09:54.600] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EnderMan['Enderman'/398, l='ServerLevel[world]', x=387.00, y=101.00, z=314.51]
 [02Dec2024 05:11:49.947] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JRC301 lost connection: Timed out
 [02Dec2024 05:11:49.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JRC301 left the game
+[02Dec2024 05:17:03.111] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JRC301[/[::1]:45024] logged in with entity id 892 at (152.69999998807907, 114.0, -71.89649711988264)
+[02Dec2024 05:17:03.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JRC301 joined the game
+[02Dec2024 05:17:03.161] [Server thread/INFO] [Jade/]: Syncing config to JRC301 (ce30053f-4db2-321c-a9d2-96ac7305698d)
