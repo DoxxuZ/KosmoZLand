@@ -1705,6 +1705,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-02 02:30:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-02 02:30:50 +0000"
@@ -1723,9 +1729,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/fermented_spider_eye": {
+  "mowziesmobs:kill_grottol": {
     "criteria": {
-      "has_spider_eye": "2024-12-02 02:30:08 +0000"
+      "grottol": "2024-12-02 03:02:01 +0000"
     },
     "done": true
   },
