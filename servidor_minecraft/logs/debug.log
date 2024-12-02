@@ -6499,3 +6499,64 @@ java.lang.Throwable: null
 [02Dec2024 03:07:20.529] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
 [02Dec2024 03:07:20.530] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
 [02Dec2024 03:09:03.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mers_444 has made the advancement [Minecraft Comes Alive]
+[02Dec2024 03:11:02.532] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 03:11:02.547] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 03:11:58.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JRC301 has made the advancement [Suit Up]
+[02Dec2024 03:12:10.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DoxxuZ> gg
+[02Dec2024 03:12:18.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JRC301> ajjajajaja
+[02Dec2024 03:12:29.207] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Lina'/251, l='ServerLevel[world]', x=-1007.70, y=64.00, z=-523.30] died, message: 'Lina (Staying) went up in flames'
+[02Dec2024 03:12:29.208] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Lina'/251, l='ServerLevel[world]', x=-1007.70, y=64.00, z=-523.30] died: Lina (Staying) went up in flames
+[02Dec2024 03:13:01.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DoxxuZ: Applied effect Resistance to DoxxuZ]
+[02Dec2024 03:13:23.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mers_444 is bleeding. Mers_444 drowned
+[02Dec2024 03:13:29.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mers_444 drowned
+[02Dec2024 03:14:29.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mers_444 has made the advancement [Dragonslayer]
+[02Dec2024 03:14:36.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DoxxuZ: Removed every effect from DoxxuZ]
+[02Dec2024 03:16:02.467] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 03:16:02.477] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 03:21:02.458] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 03:21:02.469] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 03:22:27.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JRC301> quejeso
+[02Dec2024 03:22:30.996] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Dec2024 03:22:30.997] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Dec2024 03:22:30.998] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Dec2024 03:22:30.998] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Dec2024 03:22:30.999] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Dec2024 03:22:31.044] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Dec2024 03:22:31.045] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Dec2024 03:22:31.046] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Dec2024 03:22:31.048] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Dec2024 03:22:32.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DoxxuZ> dormiiiii
+[02Dec2024 03:22:52.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DoxxuZ> dueman hptas
+[02Dec2024 03:22:57.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DoxxuZ> duermann
+[02Dec2024 03:23:16.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DoxxuZ: Applied effect Resistance to DoxxuZ]
+[02Dec2024 03:23:18.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mers_444> dormi jacoboooooo
+[02Dec2024 03:24:14.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JRC301 has made the advancement [Sweet Dreams]
+[02Dec2024 03:24:21.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JRC301> zz
+[02Dec2024 03:24:21.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JRC301> z
+[02Dec2024 03:24:21.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JRC301> zz
+[02Dec2024 03:24:21.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JRC301> z
+[02Dec2024 03:24:21.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JRC301> z
+[02Dec2024 03:24:21.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JRC301> z
+[02Dec2024 03:24:23.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JRC301> z
+[02Dec2024 03:24:30.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mers_444> zzzz
+[02Dec2024 03:24:38.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mers_444> zz
+[02Dec2024 03:24:39.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mers_444> z
+[02Dec2024 03:24:39.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mers_444> z
+[02Dec2024 03:24:40.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mers_444> z
+[02Dec2024 03:24:40.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mers_444> z
+[02Dec2024 03:24:52.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JRC301> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[02Dec2024 03:25:03.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JRC301> los voy a violar
+[02Dec2024 03:25:34.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mers_444> zzz
+[02Dec2024 03:25:36.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mers_444> z
+[02Dec2024 03:25:37.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mers_444> z
+[02Dec2024 03:25:46.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DoxxuZ: Set own game mode to Creative Mode]
+[02Dec2024 03:25:58.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DoxxuZ: Set own game mode to Survival Mode]
+[02Dec2024 03:26:02.453] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 03:26:02.464] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 03:28:44.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DoxxuZ: Removed every effect from DoxxuZ]
+[02Dec2024 03:29:12.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DoxxuZ> MANO JRC301 conoces la histo de Viego?
+[02Dec2024 03:29:30.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JRC301> cual viego
+[02Dec2024 03:29:37.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DoxxuZ> rl de lol
+[02Dec2024 03:29:41.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JRC301> sisasss
+[02Dec2024 03:30:01.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DoxxuZ> en este momento me volvi en y ese va a ser mi proposito en mc
+[02Dec2024 03:30:13.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JRC301> JAJAJAJJAA
