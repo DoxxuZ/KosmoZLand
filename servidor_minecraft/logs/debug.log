@@ -6553,3 +6553,10 @@ java.lang.Throwable: null
 [02Dec2024 03:49:58.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mers_444 has reached the goal [Exorcism]
 [02Dec2024 03:50:59.177] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02Dec2024 03:50:59.188] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 03:55:28.164] [Server thread/DEBUG] [mixin/]: Mixing contraption.ContainerLevelAccessMixin from create_connected.mixins.json into net.minecraft.world.inventory.ContainerLevelAccess
+[02Dec2024 03:55:28.164] [Server thread/DEBUG] [mixin/]: create_connected.mixins.json:contraption.ContainerLevelAccessMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[02Dec2024 03:55:28.185] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/world/inventory/ContainerLevelAccess$Anonymous$9166253660d74b3192a4ab8f59c141d4 (originally com/hlysine/create_connected/mixin/contraption/ContainerLevelAccessMixin$1)
+[02Dec2024 03:55:59.172] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 03:55:59.184] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 04:00:59.172] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 04:00:59.182] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
